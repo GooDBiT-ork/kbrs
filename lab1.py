@@ -214,6 +214,7 @@ def kasiski(str):
 key_words = ["go", "war", "rave", "rebel", "london", "starman", "iamalive", "breakfree", "godknowhow", "pleasbedead"]
 success_rate_key = [0] * 10
 
+
 for k in range(9):
     print(f'k: {k}')
     for i in range(10):
